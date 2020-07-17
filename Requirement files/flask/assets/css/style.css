@@ -1,0 +1,14 @@
+p {
+  text-align: center;
+  color: red;
+}
+
+#green_id {
+  text-align: center;
+  color: green;
+}
+
+.blue_class {
+  text-align: center;
+  color: blue;
+}
